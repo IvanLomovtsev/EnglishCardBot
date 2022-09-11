@@ -6,9 +6,17 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanLomovtsev/EnglishCardBot.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanLomovtsev/EnglishCardBot/issues"
+  },
+  "homepage": "https://github.com/IvanLomovtsev/EnglishCardBot#readme",
   "dependencies": {
     "node-telegram-bot-api": "0.59.0"
   }
